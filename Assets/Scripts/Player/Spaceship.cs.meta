@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5abc452825d85a4b805a5593a9741fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _camera: {instanceID: 0}
+  - _joystick: {instanceID: 0}
+  - _explodeEffect: {fileID: 7090325324085493106, guid: 4c360846e4bfb8a4fb9c76bf3ccc9429, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

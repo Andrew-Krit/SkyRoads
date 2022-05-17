@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 93ecbb003ad66aa479da3df7fee7c810
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _defaultButtonSound: {fileID: 8300000, guid: 29df8e798230e44128d54040c4971b7f, type: 3}
+  - _newRecordSound: {fileID: 8300000, guid: 3a92b738a76d1f846bd7a6b16e56d9a2, type: 3}
+  - _loseGameSound: {fileID: 8300000, guid: 66a79775f22c9de40ad6558adae0809d, type: 3}
+  - _mainMenuMusic: {fileID: 8300000, guid: 88db407f9046c4a40aedc7898257be27, type: 3}
+  - _gameMusic: {fileID: 8300000, guid: 489d44dfe422eb44395751131d3a2ed6, type: 3}
+  - _audioSourceSFX: {instanceID: 0}
+  - _audioSourceMusic: {instanceID: 0}
+  - _audioMixer: {fileID: 24100000, guid: 1e4b664594074db46b5d643f75c72df8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
